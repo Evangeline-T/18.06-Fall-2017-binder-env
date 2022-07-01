@@ -9,3 +9,5 @@ To create a link to load notebooks in a particular course, use [nbgitpuller](htt
 NO USE # [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mitmath/binder-env/main)
 
 My Link [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Evangeline-T/18.06-Fall-2017-binder-env/HEAD)
+
+Pset1: Error in Matrix(UpperTriangular(rand(-9:9, 5,5))). UpperTriangular not defined. I suppose it might be a built-in function, but now I can not use it.
